@@ -1,85 +1,92 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jett Perry",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://avatars.githubusercontent.com/u/143229317?v=4",
+    "email": "jettperr@hawaii.edu",
+    "phone": "",
+    "website": "https://jperry808.github.io/jperry808.io/",
+    "summary": "Pursuing a Bachelor of Science in Computer Science at the University of Hawaii, specializing in Software Engineering and Game Development. Expected to graduate in Fall 2026.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jperry808", "url": "http://github.com/jperry808" },
+      { "network": "linkedin", "username": "Jett Perry", "url": "https://www.linkedin.com/in/jett-perry-050b88267/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Video Game Development" },
+    { "name": "3D Modeling" },
+    { "name": "Music Composition" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "C#", "Java", "Javascript", "Typescript", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Git/GitHub", "Unity" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "startDate": "2023-08-21",
+      "endDate": "Ongoing",
+      "courses": [ ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2022-05-02",
+      "endDate": "2023-08-21",
+      "courses": [ ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Hawaii Air National Guard",
+      "position": "Aerospace Technician",
+      "website": "https://www.154wg.ang.af.mil/",
+      "startDate": "2019-06-26",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Maintained and repaired C-17 Globemaster Aircraft",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Met safety requirements through routine and special inspections, documenting findings and repairs undertaken.",
+        "Restored functionality and improved performance by modifying aircraft structures, systems and components.",
+        "Collaborated positively with peers to maintain friendly, supportive and cooperative work atmosphere.",
+        "Read and interpreted maintenance manuals to determine feasibility and method of repairing and replacing malfunctioning or damaged components."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "University of Hawaii Foundation",
+      "position": "Data Analyst",
+      "website": "https://www.uhfoundation.org/",
+      "startDate": "2022-11-07",
+      "endDate": "2023-02-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Managed complex projects with high level of organization, time management and attention to detail.",
+        "Oversaw 20,000+ currently enrolled University of Hawaii students who have received scholarships, grants, etc.",
+        "Assisted with finding scholarships for University of Hawaii students in various fields of study while working with classified data."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Help Understanding and Group Support (HUGS)",
+      "website": "https://www.hugshawaii.org/",
+      "position": "Volunteer",
+      "startDate": "2023-03-04",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "HUGS is a small non-profit that helps families with children who are seriously ill.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Helper at 2023 and 2024 SIB Camp where we watch over the brothers and sisters of seriously ill children ensuring their mental wellbeing.",
+        "Worker at the HUGS Met Gala where we raised over $10,000 to help provide financial support for our HUGS families."
       ]
     },
     {
@@ -90,24 +97,16 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Intern, NIWC (Naval Information Warfare Center), 2024-08-26-Present"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Air and Space Achievement Medal",
+      "date": "2019-2022",
+      "awarder": "LTC Zachary Chang, USAF",
+      "summary": "During this period Airman Perry's outstanding work as an Aircraft Mechanic Journeyman increased aircraft reliability by 97%, exceeding the Department of Defense's goal by 3.2%."
     }
   ],
   "references": [
