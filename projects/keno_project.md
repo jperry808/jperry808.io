@@ -1,8 +1,7 @@
 ---
 layout: project
 type: project
-image: <iframe src="https://giphy.com/embed/LbwYafJZ3iqwbUQhYa" width="480" height="336" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LbwYafJZ3iqwbUQhYa">via GIPHY</a></p>
-title: "Keno Project"
+image: https://media.giphy.com/media/LbwYafJZ3iqwbUQhYa/giphy.gif
 date: 2023
 published: true
 labels:
