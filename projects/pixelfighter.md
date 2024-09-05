@@ -18,4 +18,10 @@ This project is a passion project created by me and my friend. We started develo
 
 The background assets were created by me through Aseprite along with the character movement and combat scripts.
 
+Creating Pixelfighter has taught me so much about creating assets for video games, coding basic combat scripts, and making gameplay and movement feel smooth for maximum enjoyment amongst players.
+
+Although this project is on hold now due to conflicts with school, by the end of the year Pixelfighter will be complete and it'll be time to work on something even better.
+
 Source: <a href="https://github.com/darriusdacquel/PixelFighter"><i class="large github icon "></i>pixelfighter-repo</a>
+
+Video Demo: <a href="https://youtu.be/WzXYacIFubw"><i class="large github icon "></i>pixelfighter-demo-video</a>
