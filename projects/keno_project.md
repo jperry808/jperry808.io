@@ -11,7 +11,7 @@ labels:
   - GUI
 summary: "A project made for my ICS 211 course"
 ---
-
+<img class="img-fluid" src="../img/keno.png">
 
 This is a project made with the IDE jGrasp for my ICS 211 course at Leeward Community College. This project was made to demonstrate proficiency in using Java's GUI elements and Java's File.io feature.
 
