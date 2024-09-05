@@ -12,7 +12,10 @@ labels:
   - Aseprite
 summary: "A 2D fighting game made to demonstrate proficiency in game development"
 ---
-
 <img class="img-fluid" src="../img/pixelfighter pic.png">
 
-Source: <a href="[https://github.com/jogarces/ics-313-text-game](https://github.com/darriusdacquel/PixelFighter)"><i class="large github icon "></i>pixelfighter-repo</a>
+This project is a passion project created by me and my friend. We started developing this game over the summer to demonstrate proficiency in Unity for future internships and job opportunities in the field of game development.
+
+The background assets were created by me through Aseprite along with the character movement and combat scripts.
+
+Source: <a href="https://github.com/darriusdacquel/PixelFighter"><i class="large github icon "></i>pixelfighter-repo</a>
