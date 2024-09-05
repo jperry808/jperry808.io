@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://media.giphy.com/media/LbwYafJZ3iqwbUQhYa/giphy.gif
+image: img/keno_clip.gif
 date: 2023
 published: true
 labels:
