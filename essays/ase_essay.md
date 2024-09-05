@@ -10,8 +10,6 @@ labels:
   - Software Engineering
 ---
 
-## Athletic Coding with Typescript: The Marathon Never Ends
-
 As an athlete in the sprint that is the world of software development, I’ve found one thing to be certain: Our best only comes when we are tested the most. High-pressure situations, where it's just you, the clock, and the playground that is your IDE, define our limits. As a second-year programmer approaching my junior year of college, I’ve had my fair share of stressful moments. From struggling with deadlines to typing as fast as humanly possible on LeetCode, you name it—I’ve done it (or at least tried). Although I do well in school and get by on LeetCode, staying consistent has always been a struggle. It was time for a change of scenery and a new methodology of learning, and I’m here to speak about both.
 
 ## Background and Learning TypeScript
