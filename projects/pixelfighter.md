@@ -10,7 +10,7 @@ labels:
   - Unity
   - C#
   - Aseprite
-summary: "A 2D fighting game made to demonstrate proficiency in game development"
+summary: "A 2D fighting game made to demonstrate proficiency in game development with Unity."
 ---
 <img class="img-fluid" src="../img/pixelfighter pic.png">
 
