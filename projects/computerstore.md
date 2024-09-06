@@ -8,7 +8,7 @@ published: true
 labels:
   - Java
   - Object Oriented Programming
-summary: "A program that creates and stores computer objects made for ICS 211"
+summary: "A program that creates and stores computer objects made for ICS 211."
 ---
 <img class="img-fluid" src="../img/computerstore project.png">
 
