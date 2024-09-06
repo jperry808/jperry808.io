@@ -25,6 +25,6 @@ Some of the input validation included:
 
 It was challenging at first but this project taught me a lot about how to check if your code is foolproof and to make sure nobody can mess up your code no matter how hard they try.
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/jperry808/computerstore"><i class="large github icon "></i>jperry/ics-211-computerstore</a>
 
 Video Demo: <a href="https://youtu.be/3tyZNfhP28Q"><i class="large github icon "></i>jperry/ics-211-computerstore-demo</a>
