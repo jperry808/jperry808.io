@@ -19,5 +19,5 @@ This project uses JButtons, TextFields, JLabels to create a user friendly, compl
 
 Source: <a href="https://github.com/jperry808/keno_game"><i class="large github icon "></i>jperry/ics-211-keno-game</a>
 
-Video Demo: <a href="https://youtu.be/G32Hf0j7oVI"><i class="large github icon "></i>jperry/ics-211-video</a>
+Video Demo: <a href="https://youtu.be/G32Hf0j7oVI"><i class="large github icon "></i>jperry/ics-211-keno-demo</a>
 
