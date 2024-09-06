@@ -24,4 +24,4 @@ Although this project is on hold now due to conflicts with school, by the end of
 
 Source: <a href="https://github.com/darriusdacquel/PixelFighter"><i class="large github icon "></i>pixelfighter-repo</a>
 
-Video Demo: <a href="https://youtu.be/WzXYacIFubw"><i class="large github icon "></i>pixelfighter-demo-video</a>
+Video Demo: <a href="https://youtu.be/WzXYacIFubw"><i class="large github icon "></i>pixelfighter-demo</a>
