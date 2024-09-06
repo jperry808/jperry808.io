@@ -9,7 +9,7 @@ labels:
   - Java
   - File.io
   - GUI
-summary: "A project made for my ICS 211 course"
+summary: "A project that recreates the game "Keno" using Java GUI elements. Made for my ICS 211 course."
 ---
 <img class="img-fluid" src="../img/keno.png">
 
