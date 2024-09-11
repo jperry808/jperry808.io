@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pixelfighter_clip_new.gif
+image: img/pixelfighter_clip_copy.gif
 title: "Pixelfighter"
 date: 2024
 published: true
