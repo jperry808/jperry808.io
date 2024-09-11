@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/keno_clip.gif
+image: img/keno_clip_copy.gif
 title: "Keno Project"
 date: 2023
 published: true
