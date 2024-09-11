@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/computerstore_clip_copy.gif
+image: img/computerstore_clip_resize2.gif
 title: "Computer Store"
 date: 2023
 published: true
