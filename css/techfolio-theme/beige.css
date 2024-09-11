@@ -4,21 +4,23 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-beige1: #000000;
-  --tf-beige2: #F5F5DC;  /* Beige */
-  --tf-beige3: #F5F5F0;  /* Light Cream Beige */
-  --tf-beige4: #E5D8B7;  /* Warm Beige */
+  --tf-blue1: #076db3;
+  --tf-blue2: #1b6fa9;
+  --tf-blue3: #2f8ed0;
+  --tf-blue4: #bde3f0;
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--tf-beige1);
-  --tf-pill-bg: var(--tf-beige4);
-  --tf-icon-fill: var(--tf-beige1);
-  --tf-page-bg-color: var(--tf-beige2);
-  --tf-footer-bg-color: var(--tf-beige3);
-  --tf-projects-bg-color: var(--tf-beige3);
+  --bs-link-color: var(--tf-blue1);
+  --tf-pill-bg: var(--tf-blue3);
+  --tf-icon-fill: var(--tf-blue1);
+  --tf-icon-hover: var(--tf-blue3);
+  --tf-page-bg-color: var(--bs-white);
+  --tf-footer-bg-color: var(--tf-blue4);
+  --tf-projects-bg-color: var(--tf-blue4);
 }
 
-h1,h2,h3,h4 {
-  color: var(--tf-beige3);
+h1,h2,h3,h4,h5 {
+  color: var(--tf-blue1);
+  font-family: Rubik;
 }
 
 /* Format social media icons */
