@@ -5,17 +5,17 @@
   --tf-beige3: #F5F5F0;  /* Light Cream Beige */
   --tf-beige4: #E5D8B7;  /* Warm Beige */
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--tf-beige1);
+  //--bs-link-color: var(--tf-beige1);
   --tf-pill-bg: var(--tf-beige4);
-  --tf-icon-fill: var(--tf-beige1);
+  //--tf-icon-fill: var(--tf-beige1);
   --tf-page-bg-color: var(--tf-beige2);
   --tf-footer-bg-color: var(--tf-beige3);
   --tf-projects-bg-color: var(--tf-beige3);
 }
 
-h1,h2,h3,h4 {
+/*h1,h2,h3,h4 {
   color: var(--tf-beige1);
-}
+}*/
 
 /* Format social media icons */
 
