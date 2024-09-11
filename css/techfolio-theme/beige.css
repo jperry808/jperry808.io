@@ -1,21 +1,22 @@
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-beige1: #080808;
+  //--tf-beige1: #080808;
   --tf-beige2: #F5F5DC;  /* Beige */
   --tf-beige3: #F5F5F0;  /* Light Cream Beige */
   --tf-beige4: #E5D8B7;  /* Warm Beige */
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  //--bs-link-color: var(--tf-beige1);
+  --bs-link-color: var(--bs-gray);
   --tf-pill-bg: var(--tf-beige4);
-  //--tf-icon-fill: var(--tf-beige1);
+  --tf-icon-fill: var(--bs-gray);
   --tf-page-bg-color: var(--tf-beige2);
   --tf-footer-bg-color: var(--tf-beige3);
   --tf-projects-bg-color: var(--tf-beige3);
 }
 
-/*h1,h2,h3,h4 {
-  color: var(--tf-beige1);
-}*/
+h1,h2,h3,h4 {
+  color: var(--bs-gray);
+  font-family: Rubik;
+}
 
 /* Format social media icons */
 
