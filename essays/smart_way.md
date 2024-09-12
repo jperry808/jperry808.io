@@ -15,11 +15,12 @@ Stack overflow is a vault of knowledge built upon years and years of developers 
 ## Prior to asking questions…	
 
 Now before you publish your question to Stack Overflow or whatever forum you choose, make sure you conduct your own research beforehand. Start by searching for your own question to see if it has already been answered. Many programmers have encountered the exact same problem you currently face and just like you they thought to post a question to Stack Overflow in hopes of getting an answer. Take advantage of the resources available to you and make sure you exhaust every option before seeking additional help.
+
 So now you’ve gathered information and found out a little bit more about how to go about solving your problem, but you still don’t have the answer! Now is the time to think about posting to a forum.
 
 ## The “NOT” so smart way
 
-An example of a question that does not obey the rules established earlier would be ASH’s question <a href="https://stackoverflow.com/questions/32627456/how-to-define-a-constructor-outside-class-in-java"><i class="large github icon "></i>“how to define a constructor outside class in java?”</a>. We are Borg, the user who first commented on this post said it best, “Wouldn’t a simple google search reveal this?” and he is in fact 100% correct. We cant necessarily go back and try to google this question back in 2015 to see for sure but even if ASH did research himself he surely didn’t make it seem like he did. His question wasn’t prepared well, and it left a sour taste in many developers mouths leading to his post getting a whopping -27 score.
+An example of a question that does not obey the rules established earlier would be ASH’s question, <a href="https://stackoverflow.com/questions/32627456/how-to-define-a-constructor-outside-class-in-java"><i class="large github icon "></i>“how to define a constructor outside class in java?”</a>. We are Borg, the user who first commented on this post said it best, “Wouldn’t a simple google search reveal this?” and he is in fact 100% correct. We cant necessarily go back and try to google this question back in 2015 to see for sure but even if ASH did research himself he surely didn’t make it seem like he did. His question wasn’t prepared well, and it left a sour taste in many developers mouths leading to his post getting a whopping -27 score.
 
 ## The smart way	
 
