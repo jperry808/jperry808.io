@@ -7,7 +7,8 @@ date: 2024-09-12
 published: true
 labels:
   - ICS 314
-  - Software Engineering
+  - Netiquette
+  - Stack Overflow
 ---
 
 Stack overflow is a vault of knowledge built upon years and years of developers and software engineers alike honing their craft and assisting less experienced developers. With no limit to the amount of brilliant minds that can indulge in Stack Overflow, some developers end up giving off the wrong impression. There are tons of forums online talking about their poor experiences on Stack Overflow, and how nobody is answering their questions. Now sometimes they’re right and at the end of the day, it’s just not possible for everybody to have an amazing experience, but a lot of times they aren’t. The tech professionals that educate young minds on Stack Overflow don’t always have time to figure out what you are trying to say, and it can be incredibly frustrating for them to see all these questions that can be solved with a simple Google search. With that being said, I’m here to understand both perspectives and share with you a method of ensuring the questions you ask are well formulated and won’t result in embarrassment. 
