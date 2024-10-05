@@ -11,7 +11,7 @@ labels:
   - GUI
 summary: "A project that recreates the game \"Keno\" using Java GUI elements. Made for my ICS 211 course."
 ---
-<img class="img-fluid" src="../img/keno.png" style="width: 1000px; height: 600px">
+<img class="img-fluid" src="../img/keno.png" style="width: 1000px; height: 750px">
 
 **Project Overview**
 This is a project made with the IDE jGrasp for my ICS 211 course at The University of Hawaii at Manoa. This project was made to demonstrate proficiency in using Java's GUI elements and Java's File.io feature.
