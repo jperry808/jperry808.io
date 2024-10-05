@@ -12,9 +12,11 @@ summary: "A program that creates and stores computer objects made for ICS 211."
 ---
 <img class="img-fluid" src="../img/computerstore project.png">
 
-This project was created as a way to demonstrate proficiency in object oriented programming in Java. Some things that we had to implement for this assignment are input verification, throwing exceptions, and having the code continue despite any errors or faulty input.
+**Project Overview**
+This project was created as a way to demonstrate proficiency in object oriented programming in Java. Some things that had to be implemented for this assignment include: input verification, throwing exceptions, and having the code continue despite any errors or faulty input.
 
-While the project in itself was not relatively hard, the hardships came in all the tiny errors we had to be wary of and make sure that our code catches the errors or does not allow them.
+**Technical Challenges and Learning**
+While the project in itself was not relatively hard, the hardships came in all the tiny errors I had to be wary of and make sure that the program catches the errors or does not allow them.
 
 Some of the input validation included:
 - Barcode must be from 10001 - 99999
@@ -23,8 +25,9 @@ Some of the input validation included:
 - Barcodes cannot be duplicate
 - Must delete computer objects by the barcode
 
-It was challenging at first but this project taught me a lot about how to check if your code is foolproof and to make sure nobody can mess up your code no matter how hard they try.
+**Outcome and Reflections**
+Through this project I deepened my foundational programming skills, especially in object oriented programming. Input validation and handing exceptions helped me understand how to handle real-world scenarios and solve problems that I will surely encounter in the future.
 
-Source: <a href="https://github.com/jperry808/computerstore"><i class="large github icon "></i>jperry/ics-211-computerstore</a>
-
-Video Demo: <a href="https://youtu.be/3tyZNfhP28Q"><i class="large github icon "></i>jperry/ics-211-computerstore-demo</a>
+**Links and Resources**
+- Source: <a href="https://github.com/jperry808/computerstore"><i class="large github icon "></i>jperry/ics-211-computerstore</a>
+- Video Demo: <a href="https://youtu.be/3tyZNfhP28Q"><i class="large github icon "></i>jperry/ics-211-computerstore-demo</a>
