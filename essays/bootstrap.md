@@ -17,7 +17,7 @@ The biggest adjustment for me was getting used to the new classes, especially si
 ## Advantages of Using Bootstrap
 
 Although there is a steep learning curve, Bootstrap makes website building ten times easier than it would be with traditional HTML and CSS. One of the things I love most about Bootstrap is the ability to easily create rows and columns. In HTML and CSS, there are many ways to do it, but none are very efficient, nor do they look very good. In Bootstrap, all you need is a row class followed by however many col classes you need. Below are some pictures of the same website made with HTML and CSS stylings compared to one made with just Bootstrap stylings.
-
+<br>
 <div class="row">
   <div class="col">
     <img class="img-fluid" src="../img/browsers1.png">
@@ -26,7 +26,7 @@ Although there is a steep learning curve, Bootstrap makes website building ten t
     <img class="img-fluid" src="../img/browsers2.png">
   </div>
 </div>
-
+<br>
 Not only does the one on the right look better, but the code is also much cleaner and easier to read. As a beginner in HTML and CSS, I had trouble using <div> tags to separate my code since they aren’t necessarily required for most situations. However, with Bootstrap, they become far more useful. It almost feels like you’re encouraged to use <div> tags for almost everything due to all the possibilities they offer. The use of <div> tags also helps your code look cleaner and easier to understand since all your websites will be organized into their respective sections.
 
 ## Summing It Up
