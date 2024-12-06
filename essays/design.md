@@ -19,7 +19,11 @@ One of the most reliable methods is the “Factory Method.” The factory method
 
 ## Factory Method Example
 
-<img src="https://i.pinimg.com/736x/60/c4/d1/60c4d150b4b4a2bf4f7f32cbfa8acfe0.jpg" style="float: left; width: 45%; margin-right: 10px;">
+<div style="display: flex; align-items: flex-start; flex-wrap: wrap; gap: 10px;">
+  <div style="flex: 1; min-width: 300px; max-width: 50%;">
+    <img src="https://i.pinimg.com/736x/60/c4/d1/60c4d150b4b4a2bf4f7f32cbfa8acfe0.jpg" style="width: 100%; border: 1px solid #ddd; border-radius: 5px;">
+  </div>
+  <div style="flex: 2; min-width: 300px;">
 
 Let’s think of a food ordering app, maybe an ice cream ordering app. Initially, your ice cream shop opens up offering only vanilla ice cream. All your code for ordering ice cream resides in the “Vanilla” class. You then realize that nobody wants vanilla ice cream anymore, so you need to add new flavors before you go out of business! Since all your code is in the “Vanilla” class, adding new flavors would be a lot of work and require a lot of duplicate code. You then think back to your software engineering class and remember the factory method! Instead of a “Vanilla” class, we create an “IceCream” interface that each ice cream flavor class can implement. Here is a quick example in code:
 
@@ -49,6 +53,9 @@ export class MintChocolateChip implements IceCream {
 ```
 
 Now, creating new flavors is super simple, and your code is scalable for the future of your ice cream business. None of the classes you just created need to be updated if you want to add a new flavor—just your main function or a separate function that handles ice cream class creation.
+
+  </div>
+</div>
 
 ## Final Thoughts
 
