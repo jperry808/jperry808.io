@@ -27,7 +27,10 @@ One of the most reliable methods is the “Factory Method.” The factory method
     <p>
       Let’s think of a food ordering app, maybe an ice cream ordering app. Initially, your ice cream shop opens up offering only vanilla ice cream. All your code for ordering ice cream resides in the “Vanilla” class. You then realize that nobody wants vanilla ice cream anymore, so you need to add new flavors before         you go out of business! Since all your code is in the “Vanilla” class, adding new flavors would be a lot of work and require a lot of duplicate code. You then think back to your software engineering class and remember the factory method! Instead of a “Vanilla” class, we create an “IceCream” interface that each         ice cream flavor class can implement. Here is a quick example in code:
     </p>
-    ```typescript
+  </div>
+</div>
+
+```typescript
 // IceCream.tsx
 export interface IceCream { 
    scoop(): void;
@@ -51,8 +54,6 @@ export class MintChocolateChip implements IceCream {
    }
 }
 ```
-  </div>
-</div>
 
 Now, creating new flavors is super simple, and your code is scalable for the future of your ice cream business. None of the classes you just created need to be updated if you want to add a new flavor—just your main function or a separate function that handles ice cream class creation.
 
