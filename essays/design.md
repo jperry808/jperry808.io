@@ -54,11 +54,10 @@ One of the most reliable methods is the “Factory Method.” The factory method
         }
       </code>
     </pre>
-    <p>
-      Now, creating new flavors is super simple, and your code is scalable for the future of your ice cream business. None of the classes you just created need to be updated if you want to add a new flavor—just your main function or a separate function that handles ice cream class creation.
-    </p>
   </div>
 </div>
+
+Now, creating new flavors is super simple, and your code is scalable for the future of your ice cream business. None of the classes you just created need to be updated if you want to add a new flavor—just your main function or a separate function that handles ice cream class creation.
 
 ## Final Thoughts
 
