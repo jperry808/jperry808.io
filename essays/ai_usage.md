@@ -16,7 +16,7 @@ labels:
 With how prominent AI is in school today, it is impossible to stray away from it. In my ICS 314 class, I chose to use it primarily for quality assurance purposes such as asking it to debug code for me when I encounter errors, or using it to help me explain and walk me through code. Using AI helped me further understand the software engineering topics we went over and helped me keep up with this very fast paced course.
 
 ## Personal Experience with AI
-
+<div style="margin-left:10px">
 #### 1. Experience WODs
 AI was very useful for the experience WODs such as E18, when working with big datasets, manipulating them with typescript was challenging to understand at first, however for these WODs ChatGPT was very helpful and knew exactly what to do almost every single time.
 
@@ -75,7 +75,7 @@ Quality assurance has got to be the most useful thing that ChatGPT provides. Ask
 
 #### 14.	Other uses in ICS 314 not listed
 N/A, all uses have been covered above.
-
+</div>
 ## Impact on Learning and Understanding
 
 Incorporating AI to my learning of software engineering has proved extremely beneficial overall. It helped deepen my knowledge on software engineering topics and also enhance my problem solving abilities. Using ChatGPT once to solve a problem helps me understand the thought process that went into solving it and allows me to apply it myself and deepen my understanding of the topic.
