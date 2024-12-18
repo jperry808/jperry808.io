@@ -12,7 +12,7 @@ labels:
   - Co-Pilot
 ---
 <div>
-  <img src="https://blog.logomyway.com/wp-content/uploads/2023/08/open-ai-chatgpt.png" width="60%">
+  <img src="https://blog.logomyway.com/wp-content/uploads/2023/08/open-ai-chatgpt.png" width="40%">
 </div>
 
 ## Introduction
