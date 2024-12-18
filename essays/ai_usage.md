@@ -18,16 +18,16 @@ With how prominent AI is in school today, it is impossible to stray away from it
 ## Personal Experience with AI
 
 1. **Experience WODs**
-AI was very useful for the experience WODs such as E18, when working with big datasets, manipulating them with typescript was challenging to understand at first, however for these WODs ChatGPT was very helpful and knew exactly what to do almost every single time.
+  AI was very useful for the experience WODs such as E18, when working with big datasets, manipulating them with typescript was challenging to understand at first, however for these WODs ChatGPT was very helpful and knew exactly what to do almost every single time.
 
 2. **In-class Practice WODs**  
-For the in-class practice WODs, I was a little more reliant on AI usage since the practice WODs provided me with time to prepare for the real WOD and understand it prior to taking the actual WOD. For example, on the React WOD, I was having trouble making a nice background image, I used ChatGPT to help me find a workaround and implemented it myself during the in-class WOD.
+  For the in-class practice WODs, I was a little more reliant on AI usage since the practice WODs provided me with time to prepare for the real WOD and understand it prior to taking the actual WOD. For example, on the React WOD, I was having trouble making a nice background image, I used ChatGPT to help me find a workaround and implemented it myself during the in-class WOD.
 
 3. **In-class WODs**
-While doing the in-class WODs, I chose to only use AI if I was stuck or confused on what to do. I also refrained from using it on the later WODs such as the React, Next.js and HTML WODs. I noticed that its usefulness gradually decreased as the WODs went on since AI’s such as ChatGPT struggle with completely understanding what the instructions want us to do.
+  While doing the in-class WODs, I chose to only use AI if I was stuck or confused on what to do. I also refrained from using it on the later WODs such as the React, Next.js and HTML WODs. I noticed that its usefulness gradually decreased as the WODs went on since AI’s such as ChatGPT struggle with completely understanding what the instructions want us to do.
 
 4. **Essays**
-I did not want to use ChatGPT to write any of the essays as they are meant to showcase my writing skills to the world. With that being said, I do choose to use it strictly for grammar or punctuation purposes and for ideas to write about if I’m running out of them.
+  I did not want to use ChatGPT to write any of the essays as they are meant to showcase my writing skills to the world. With that being said, I do choose to use it strictly for grammar or punctuation purposes and for ideas to write about if I’m running out of them.
 
 #### 5. Final Project
 I used AI’s such as Co-Pilot and ChatGPT for the final project since the final project required me to implement a lot of things that I had no idea how to implement. A good example of this is when I wanted to include a way to export a table as an excel file. ChatGPT helped me understand this concept and told me what to download to implement it to my project.
