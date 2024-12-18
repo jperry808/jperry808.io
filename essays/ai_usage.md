@@ -17,6 +17,7 @@ With how prominent AI is in school today, it is impossible to stray away from it
 
 ## Personal Experience with AI
 <div style="margin-left:10px">
+
 #### 1. Experience WODs
 AI was very useful for the experience WODs such as E18, when working with big datasets, manipulating them with typescript was challenging to understand at first, however for these WODs ChatGPT was very helpful and knew exactly what to do almost every single time.
 
