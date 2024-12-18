@@ -11,6 +11,9 @@ labels:
   - ChatGPT
   - Co-Pilot
 ---
+<div>
+  <img src="https://blog.logomyway.com/wp-content/uploads/2023/08/open-ai-chatgpt.png">
+</div>
 ## Introduction
 
 With how prominent AI is in school today, it is impossible to stray away from it. In my ICS 314 class, I chose to use it primarily for quality assurance purposes such as asking it to debug code for me when I encounter errors, or using it to help me explain and walk me through code. Using AI helped me further understand the software engineering topics we went over and helped me keep up with this very fast paced course.
