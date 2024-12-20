@@ -13,7 +13,7 @@ ICS 314 has been the hardest class I’ve taken up to this point of my college c
 
 ## Coding Standards
 
-<p align="center">
+<p align="center" style="max-width: 100%; margin: 0 auto;">
   <img src="https://www.inwizards.com/blog/wp-content/uploads/2018/08/coding.png" style="width: 80%; height: auto;" alt="Coding Standards">
 </p>
 
@@ -21,7 +21,7 @@ I’ve always prided myself in standardizing the way I code, whether it be by in
 
 ## Agile Project Management
 
-<p align="center">
+<p align="center" style="max-width: 100%; margin: 0 auto;">
   <img src="https://assets.plan.io/images/blog/implementing-agile-project-management.png" style="width: 71.5%; height: 43.3%;" alt="Agile Project Management">
 </p>
 
