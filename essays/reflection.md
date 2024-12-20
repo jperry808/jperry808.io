@@ -22,7 +22,7 @@ I’ve always prided myself in standardizing the way I code, whether it be by in
 ## Agile Project Management
 
 <p align="center">
-  <img src="https://assets.plan.io/images/blog/implementing-agile-project-management.png" style="width: 80%; height: 43.3%; object-fit: cover;" alt="Agile Project Management">
+  <img src="https://assets.plan.io/images/blog/implementing-agile-project-management.png" style="width: 71.5%; height: 43.3%; object-fit: cover;" alt="Agile Project Management">
 </p>
 
 Managing a project is a new skill that I was forced to uncover through this course. It is one thing to work on a project with peers, but managing a team is another. This course put my leadership skills to the test through the final project. With our team only being three people compared to most teams having five, each member had a lot of work to do in the few weeks we had to work on the project. Practicing agile project management helped us meet our deadline with a product that we can all be proud of. To practice agile project management, I encouraged our team to be creative and make choices based on their best interests. Keeping small decisions to themselves helps them feel like a part of the project and keeps them engaged. I was also adamant about keeping things simple and focusing on what the stakeholder wanted and not going further beyond that. With us being down two members and having to meet a tight deadline, I wanted to make sure nobody felt overwhelmed and took the project at their own pace while still maintaining the level of quality we strive for as software engineers.
