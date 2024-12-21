@@ -4,7 +4,7 @@ type: essay
 title: "Coding with Constraints: Navigating ESLint's Challenges"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-25
-published: true
+published: false
 labels:
   - ICS 314
   - Coding Standards
