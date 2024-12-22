@@ -10,7 +10,7 @@ labels:
   - Object Oriented Programming
 summary: "A program that creates and stores computer objects made for ICS 211."
 ---
-<img class="img-fluid" src="../img/computerstore project.png">
+<img class="img-fluid" src="../img/computerstore_project_final.png">
 
 **Project Overview**
 This project was created as a way to demonstrate proficiency in object oriented programming in Java. Some things that had to be implemented for this assignment include: input verification, throwing exceptions, and having the code continue despite any errors or faulty input.
