@@ -12,7 +12,7 @@ labels:
   - Aseprite
 summary: "A 2D fighting game made to demonstrate proficiency in game development with Unity."
 ---
-<img class="img-fluid" src="../img/pixelfighter_final.png">
+<img class="img-fluid" src="../img/pixelfighter_final.png" width="100%">
 
 **Project Overview**
 This project is a passion project created by me and my friend. We started developing this game over the summer to demonstrate proficiency in Unity for future internships and job opportunities in the field of game development. This project involved using issue-driven management with GitHub and integrating physics based interactions with collision detection systems providing realistic in-game dynamics.
