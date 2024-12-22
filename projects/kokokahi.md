@@ -11,7 +11,7 @@ labels:
   - Typescript
   - Vercel
   - HTML/CSS
-summary: "A centralized system that monitors hours for Sail Kokokahi"
+summary: "A centralized system that monitors volunteer hours for Sail Kokokahi"
 ---
 <img class="img-fluid" src="../img/final-project-pic.png">
 
