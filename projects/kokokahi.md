@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/computerstore_clip_resize2.gif
+image: img/final_project.gif
 title: "Sail Kokokahi Volunteer Portal"
 date: 2024
 published: true
