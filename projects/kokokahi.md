@@ -13,7 +13,7 @@ labels:
   - HTML/CSS
 summary: "A centralized system for monitoring hours for Sail Kokokahi"
 ---
-<img class="img-fluid" src="../img/landingFinal.png">
+<img class="img-fluid" src="../img/final-project-pic.png">
 
 **Project Overview**
 As part of my Software Engineering I class, I worked with two other team members to help create a system that tracks the sailing club, "Sail Kokokahi's" volunteer hours. This project used agile methodologies, specifically issue-driven management with Github, sepreate brances for features, and merges
