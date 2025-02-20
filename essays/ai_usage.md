@@ -4,7 +4,7 @@ type: essay
 title: "AI usage in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-17
-published: true
+published: false
 labels:
   - ICS 314
   - AI Usage
